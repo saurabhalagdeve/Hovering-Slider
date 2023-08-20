@@ -1,3 +1,7 @@
+##ScreenShot
+
+![Screenshot (39)](https://github.com/saurabhalagdeve/Hovering-Slider/assets/127332934/1315417c-28f1-46df-ab53-a71f1a813ae4)
+
 
 Sure, here's a basic README file for the HTML and CSS code you provided:
 
@@ -6,6 +10,7 @@ This is a simple HTML and CSS project that demonstrates a "before-after" button 
 
 Table of Contents
 Description
+
 Usage
 License
 Description
